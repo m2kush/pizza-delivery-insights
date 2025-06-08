@@ -37,7 +37,7 @@ A complete SQL-based analysis of a fictional pizza delivery business. This proje
 
 ## 🗺️ Entity Relationship Diagram
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](Screenshot from 2025-06-09 03-14-32.png)
 
 ---
 
