@@ -35,6 +35,7 @@ A complete SQL-based analysis of a fictional pizza delivery business. This proje
 
 ---
 
+
 ## 🗺️ Entity Relationship Diagram
 
 ![ER Diagram](https://github.com/m2kush/pizza-delivery-insights/blob/main/Screenshot%20from%202025-06-09%2003-14-32.png)
@@ -43,6 +44,24 @@ A complete SQL-based analysis of a fictional pizza delivery business. This proje
 
 ## 📁 Dataset Source
 Dataset originally inspired by the open-source case study format, recreated and independently analyzed.
+
+## 10. Appendix
+
+  **Pizza Type Popularity**
+  
+  ![Pizza Popularity Chart](images/Screenshot from 2025-06-09 12-25-13.png)
+
+  **Runner Speed Comparison**
+
+  ![Runner Speed Chart](images/Screenshot from 2025-06-09 12-37-18.png)
+
+  **Hourly Order Volume**
+
+  ![Orders by Hour](images/Screenshot from 2025-06-09 12-25-23.png)
+
+- **Data Types:** All columns validated for proper types (integers, floats, text)
+- **Extra Tables (optional):** Created mock tables like `rating_runners` to simulate advanced extensions
+
 
 ---
 
