@@ -49,15 +49,15 @@ Dataset originally inspired by the open-source case study format, recreated and 
 
   **Pizza Type Popularity**
   
-  ![Pizza Popularity Chart]([images/Screenshot from 2025-06-09 12-25-13.png](https://github.com/m2kush/pizza-delivery-insights/blob/main/images/Screenshot%20from%202025-06-09%2012-25-13.png))
+  ![Pizza Popularity Chart](https://github.com/m2kush/pizza-delivery-insights/blob/main/images/Screenshot%20from%202025-06-09%2012-25-13.png)
 
   **Runner Speed Comparison**
 
-  ![Runner Speed Chart]([images/Screenshot from 2025-06-09 12-37-18.png](https://github.com/m2kush/pizza-delivery-insights/blob/main/images/Screenshot%20from%202025-06-09%2012-37-18.png))
+  ![Runner Speed Chart](https://github.com/m2kush/pizza-delivery-insights/blob/main/images/Screenshot%20from%202025-06-09%2012-37-18.png)
 
   **Hourly Order Volume**
 
-  ![Orders by Hour]([images/Screenshot from 2025-06-09 12-25-23.png](https://github.com/m2kush/pizza-delivery-insights/blob/main/images/Screenshot%20from%202025-06-09%2012-25-23.png))
+  ![Orders by Hour](https://github.com/m2kush/pizza-delivery-insights/blob/main/images/Screenshot%20from%202025-06-09%2012-25-23.png)
 
 - **Data Types:** All columns validated for proper types (integers, floats, text)
 - **Extra Tables (optional):** Created mock tables like `rating_runners` to simulate advanced extensions
